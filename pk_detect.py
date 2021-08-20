@@ -31,7 +31,7 @@ from utils.plots import colors
 # define a function to show detected pikachu
 def show_pikachu(img, det):
     labels = ["pikachu"]
-    img = Image.fromarray(img)
+    img = Image.fromarray(img[...,::-1])
     draw = ImageDraw.Draw(img)
     font_size = max(round(max(img.size)/40), 12)
     font = ImageFont.truetype(cwd + "/yolov5_stable/fonts/times.ttf")
