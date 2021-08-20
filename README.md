@@ -9,3 +9,6 @@ In this repository you will find:
 
 # Currently unresolved issues, as of 20 Aug 2021 
 Detected result of Pikachu somehow will show in blue discolouration, need help to fix.
+
+**Fig-1 Result showed in blue discolouration**
+![image](https://i.stack.imgur.com/SSetd.jpg)
