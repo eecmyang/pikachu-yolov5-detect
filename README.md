@@ -12,3 +12,9 @@ Detected result of Pikachu somehow will show in blue discolouration, need help t
 
 **Fig-1 Result showed in blue discolouration**
 ![image](https://i.stack.imgur.com/SSetd.jpg)
+
+# Discolouration issue resolved on 21 Aug 2021
+
+Full solution on answered stack overflow post:
+
+[https://stackoverflow.com/questions/68862495/learning-object-detection-detected-result-showed-in-discolouration/68866192#68866192](url)
