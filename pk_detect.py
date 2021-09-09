@@ -43,8 +43,6 @@ def show_pikachu(img, det):
         draw.rectangle([x_min, y_min, x_max, y_max], width = 3, outline = color)
         draw.text((x_min, y_min), labels[target] + ':' + str(prob), fill = color, font = font)
 
-    # Bug unresolved, pikachu shown in blue discolouration
-
     return img
 
 
